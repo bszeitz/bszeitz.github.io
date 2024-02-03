@@ -5,11 +5,11 @@
 [Google Scholar](https://scholar.google.hu/citations?user=aM1CbtIAAAAJ&hl=hu)
 
 ## Education
--PhD in Pathological Sciences | Semmelweis University, Budapest, HU (exp.: Spring 2024)
+-Spring 2024 (exp.): PhD in Pathological Sciences (Semmelweis University, Budapest, HU)
 
--MSc in Chemistry	| University of Pannonia, Veszprem, HU (Jan 2020)
+-Jan 2020: MSc in Chemistry (University of Pannonia, Veszprem, HU)
 
--BSc in Chemistry | University of Pannonia, Veszprem, HU (June 2017)
+-June 2017: BSc in Chemistry (University of Pannonia, Veszprem, HU)
 
 ## Selected publications
 ### Spatially resolved proteomic and transcriptomic profiling of ALK-rearranged pulmonary adenocarcinomas reveals key players in inter- and intratumoral heterogeneity
